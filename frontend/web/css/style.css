@@ -113,9 +113,20 @@ label {
 }
 .f-left {float: left}
 .f-right {float: right}
+#mine-content img {
+	display: block;
+	margin: auto;
+}
+#mine-content p{
+	text-indent: 50px;
+}
+.myitem-date{
+	float: right;
+}
 p {
-    font-size: 14px;
-    line-height: 24px;
+	margin-bottom: 20px;
+    font-size: 17px;
+    line-height: 27px;
     color: #666666;
     font-family: 'Open Sans', sans-serif;
 }
@@ -1706,7 +1717,7 @@ textarea {
 }
 .event-area.three .event-content h4{
     margin-bottom: 12px;
-    height: 50px;
+    height: 58px;
     overflow: hidden;
 }
 .event-area.three .event-content ul{margin-bottom: 15px}
@@ -2427,6 +2438,12 @@ textarea {
     line-height: 60px;
     margin-bottom: 2px;
     font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	float: left;
+}
+.footer-bottom span {
+	margin: 13px 0;
+	float: right;
 }
 .footer-area.three .footer-bottom.two p {
     line-height: 48px;

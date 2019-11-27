@@ -24,7 +24,7 @@ $this->title = $model->title;
         'model' => $model,
         'attributes' => [
             'title',
-            'text:ntext',
+            'text:html',
             [
                 'attribute' => 'img',
                 'format' => ['image',['width'=>600,'height'=>400]],

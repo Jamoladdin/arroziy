@@ -33,8 +33,7 @@ $this->registerMetaTag([
         <div class="row">
             <div class="col-md-8">
                 <div class="row">
-                    <h1>РАҲБАРИЯТ</h1>
-                    <div>
+                    <div style="text-align: left">
                         <?= $model->text?>
                     </div>
                 </div>

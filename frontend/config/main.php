@@ -42,7 +42,7 @@ return [
             'showScriptName' => false,
             'rules' => [
                 [
-                    'pattern'=>'/',
+                    'pattern'=>'',
                     'route' => 'site/index',
                     'suffix' => '',
                 ],

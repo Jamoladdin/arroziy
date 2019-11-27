@@ -19,6 +19,7 @@ AppAsset::register($this);
     <meta charset="<?= Yii::$app->charset ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Arroziy uz">
     <?= Html::csrfMetaTags() ?>
     <title><?= Html::encode($this->title) ?></title>
     <?php $this->head() ?>
@@ -33,6 +34,7 @@ AppAsset::register($this);
 
     <div class="header-area header-sticky fixed">
         <div class="container">
+			<h1 style="color: #fff; font-size: 20px; text-align: center">Сайт тест режимида ишламоқда.</h1>
 
             <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-6">
@@ -123,10 +125,10 @@ AppAsset::register($this);
                         <div class="footer-logo pb-25">
                             <a href="/"><img src="<?=Yii::$app->request->baseUrl?>/img/logo/footer-logo2.png" alt="eduhome"></a>
                         </div>
-                        <p>I must explain to you how all this mistaken idea of denoung pleure and praising pain was born and give you a coete account of the system. </p>
+                        <p>Ижтимоий тармоқлардаги манзилларимиз</p>
                         <div class="footer-social">
                             <ul>
-                                <li><a href=""><i class="fa fa-send"></i></a></li>
+                                <li><a href="https://t.me/joinchat/AAAAAEfvKW6CI8sFvYdx_g"><i class="fa fa-send"></i></a></li>
                                 <li><a href="https://www.facebook.com/devitems/?ref=bookmarks"><i class="zmdi zmdi-facebook"></i></a></li>
                                 <li><a href="https://www.pinterest.com/devitemsllc/"><i class="zmdi zmdi-pinterest"></i></a></li>
                                 <li><a href="#"><i class="zmdi zmdi-vimeo"></i></a></li>
@@ -167,9 +169,9 @@ AppAsset::register($this);
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-widget">
                         <h3>АЛОҚА</h3>
-                        <p>Your address goes here, Street<br>City, Roadno 785 New York</p>
-                        <p>+880  548  986  898  87</p>
-                        <p>info@eduhome.com</p>
+                        <p>Бизнинг манзил: Урганч шаҳар И.Дўсов кўча 2а-уй</p>
+                        <p>+998  95  606  92  55</p>
+                        <p>ar_roziy@mail.ru</p>
                     </div>
                 </div>
             </div>
@@ -180,6 +182,33 @@ AppAsset::register($this);
             <div class="row">
                 <div class="col-xs-12">
                     <p>Copyright © 2019. All Right Reserved J.Axmedov</p>
+					<span>
+						<!-- START WWW.UZ TOP-RATING --><SCRIPT language="javascript" type="text/javascript">
+<!--
+top_js="1.0";top_r="id=44205&r="+escape(document.referrer)+"&pg="+escape(window.location.href);document.cookie="smart_top=1; path=/"; top_r+="&c="+(document.cookie?"Y":"N")
+//-->
+</SCRIPT>
+<SCRIPT language="javascript1.1" type="text/javascript">
+<!--
+top_js="1.1";top_r+="&j="+(navigator.javaEnabled()?"Y":"N")
+//-->
+</SCRIPT>
+<SCRIPT language="javascript1.2" type="text/javascript">
+<!--
+top_js="1.2";top_r+="&wh="+screen.width+'x'+screen.height+"&px="+
+(((navigator.appName.substring(0,3)=="Mic"))?screen.colorDepth:screen.pixelDepth)
+//-->
+</SCRIPT>
+<SCRIPT language="javascript1.3" type="text/javascript">
+<!--
+top_js="1.3";
+//-->
+</SCRIPT>
+<SCRIPT language="JavaScript" type="text/javascript">
+<!--
+top_rat="&col=0063AF&t=ffffff&p=DD7900";top_r+="&js="+top_js+"";document.write('<a href="http://www.uz/uz/res/visitor/index?id=44205" target=_top><img src="http://cnt0.www.uz/counter/collect?'+top_r+top_rat+'" width=88 height=31 border=0 alt="Топ рейтинг www.uz"></a>')//-->
+</SCRIPT><NOSCRIPT><A href="http://www.uz/uz/res/visitor/index?id=44205" target=_top><IMG height=31 src="http://cnt0.www.uz/counter/collect?id=44205&pg=http%3A//uzinfocom.uz&&col=0063AF&amp;t=ffffff&amp;p=DD7900" width=88 border=0 alt="Топ рейтинг www.uz"></A></NOSCRIPT><!-- FINISH WWW.UZ TOP-RATING -->
+					</span>
                 </div>
             </div>
         </div>

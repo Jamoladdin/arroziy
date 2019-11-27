@@ -2,12 +2,34 @@
 $this->title = 'Аудио';
 $this->registerMetaTag([
     'name' => 'description',
-    'content' => 'Аудио файллар, Audio fayllar'
+    'content' => 'Аудио файллар, Audio fayllar, Arroziy'
 ]);
 
 $this->registerMetaTag([
     'name' => 'keywords',
-    'content' => 'Arroziy.uz, Аудио файллар, Audio fayllar'
+    'content' => 'Arroziy, Arroziy.uz, Аудио файллар, Audio fayllar'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:title',
+    'content' => 'Аудио'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:description',
+    'content' => 'Аудио'
+]);
+$this->registerMetaTag([
+	'property' => 'og:url',
+	'content' => 'http://arroziy.uz'.Yii::$app->request->url
+]);
+$this->registerMetaTag([
+	'property' => 'og:type',
+	'content' => 'audio'
+]);
+$this->registerMetaTag([
+	'property' => 'og:site_name',
+	'content' => 'Arroziy.uz'
 ]);
 ?>
 <!-- Banner Area Start -->

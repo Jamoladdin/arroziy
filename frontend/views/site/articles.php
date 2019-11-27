@@ -2,12 +2,34 @@
 $this->title = 'Мақолалар';
 $this->registerMetaTag([
     'name' => 'description',
-    'content' => 'Мақолалар, Maqolalar'
+    'content' => 'Мақолалар, Maqolalar, Arroziy'
 ]);
 
 $this->registerMetaTag([
     'name' => 'keywords',
-    'content' => 'Arroziy.uz, Мақолалар, Maqolalar'
+    'content' => 'Arroziy, Arroziy.uz, Мақолалар, Maqolalar'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:title',
+    'content' => 'Мақолалар'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:description',
+    'content' => 'Мақолалар'
+]);
+$this->registerMetaTag([
+	'property' => 'og:url',
+	'content' => 'http://arroziy.uz'.Yii::$app->request->url
+]);
+$this->registerMetaTag([
+	'property' => 'og:type',
+	'content' => 'website'
+]);
+$this->registerMetaTag([
+	'property' => 'og:site_name',
+	'content' => 'Arroziy.uz'
 ]);
 ?>
 <!-- Banner Area Start -->
@@ -37,7 +59,7 @@ $this->registerMetaTag([
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="single-event mb-60">
                                 <div class="event-img">
-                                    <a href="/maqolaid/<?= $item->id?>">
+                                    <a href="/articlesid/<?= $item->id?>">
                                         <img src="/backend/web/321/mq10/<?= $item->img?>" alt="">
                                         <div class="course-hover">
                                             <i class="fa fa-link"></i>
@@ -48,12 +70,12 @@ $this->registerMetaTag([
                                     </div>
                                 </div>
                                 <div class="event-content text-left">
-                                    <h4><a href="/maqolaid/<?= $item->id?>"><?= $item->title?></a></h4>
+                                    <h4><a href="/articlesid/<?= $item->id?>"><?= $item->title?></a></h4>
                                     <ul>
                                         <li><span>Сана:</span> <?= $item->date?></li>
                                     </ul>
                                     <div class="event-content-right">
-                                        <a class="default-btn" href="/maqolaid/<?= $item->id?>">Кўпроқ</a>
+                                        <a class="default-btn" href="/articlesid/<?= $item->id?>">Кўпроқ</a>
                                     </div>
                                 </div>
                             </div>
@@ -119,9 +141,18 @@ $this->registerMetaTag([
                             <li><a href="/islom">Ислом тарихи</a></li>
                         </ul>
                     </div>
+
+                    <div id="caleandar"></div>
+
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- Blog End -->
+<?php 
+$this->registerJsFile("/calendar/js/caleandar.js");
+$this->registerJsFile("/calendar/js/demo.js");
+$this->registerCssFile("/calendar/css/demo.css");
+$this->registerCssFile("/calendar/css/theme1.css");
+?>

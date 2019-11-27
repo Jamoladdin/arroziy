@@ -33,7 +33,6 @@ $this->registerMetaTag([
         <div class="row">
             <div class="col-md-8">
                 <div class="row">
-                    <h1 class="page-title mb-30">МАДРАСА</h1>
                     <div class="page-content"><?=$model->text?></div>
                 </div>
             </div>

@@ -2,13 +2,36 @@
 $this->title = 'Араб тили';
 $this->registerMetaTag([
     'name' => 'description',
-    'content' => 'Араб тили, Arab tili'
+    'content' => 'Араб тили, Arab tili, Arroziy'
 ]);
 
 $this->registerMetaTag([
     'name' => 'keywords',
-    'content' => 'Arroziy.uz, Араб тили, Arab tili'
+    'content' => 'Arroziy, Arroziy.uz, Араб тили, Arab tili'
 ]);
+
+$this->registerMetaTag([
+    'property' => 'og:title',
+    'content' => 'Араб тили'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:description',
+    'content' => 'Араб тили'
+]);
+$this->registerMetaTag([
+	'property' => 'og:url',
+	'content' => 'http://arroziy.uz'.Yii::$app->request->url
+]);
+$this->registerMetaTag([
+	'property' => 'og:type',
+	'content' => 'website'
+]);
+$this->registerMetaTag([
+	'property' => 'og:site_name',
+	'content' => 'Arroziy.uz'
+]);
+
 ?>
 <!-- Banner Area Start -->
 <div class="banner-area-wrapper">

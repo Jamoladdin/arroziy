@@ -2,12 +2,34 @@
 $this->title = 'Ақида';
 $this->registerMetaTag([
     'name' => 'description',
-    'content' => 'Ақида, Aqida'
+    'content' => 'Ақида, Aqida, Arroziy'
 ]);
 
 $this->registerMetaTag([
     'name' => 'keywords',
-    'content' => 'Arroziy.uz, Ақида, Aqida'
+    'content' => 'Arroziy, Arroziy.uz, Ақида, Aqida'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:title',
+    'content' => 'Ақида'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:description',
+    'content' => 'Ақида'
+]);
+$this->registerMetaTag([
+	'property' => 'og:url',
+	'content' => 'http://arroziy.uz'.Yii::$app->request->url
+]);
+$this->registerMetaTag([
+	'property' => 'og:type',
+	'content' => 'website'
+]);
+$this->registerMetaTag([
+	'property' => 'og:site_name',
+	'content' => 'Arroziy.uz'
 ]);
 ?>
 <!-- Banner Area Start -->

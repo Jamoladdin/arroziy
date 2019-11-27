@@ -119,9 +119,18 @@ $this->registerMetaTag([
                             <li><a href="/islom">Ислом тарихи</a></li>
                         </ul>
                     </div>
+					
+					<div id="сalendar"></div>
+					
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- Blog End -->
+<?php
+$this->registerJsFile("/calendar/js/caleandar.js");
+$this->registerJsFile("/calendar/js/demo.js");
+$this->registerCssFile("/calendar/css/demo.css");
+$this->registerCssFile("/calendar/css/theme1.css");
+?>

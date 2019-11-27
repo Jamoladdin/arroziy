@@ -7,7 +7,33 @@ $this->registerMetaTag([
 
 $this->registerMetaTag([
     'name' => 'keywords',
-    'content' => 'Arroziy.uz, '.$model->title
+    'content' => 'Arroziy, Arroziy.uz, '.$model->title
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:title',
+    'content' => $model->title
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:description',
+    'content' => mb_substr(strip_tags($model->text, ''), 0, 200)
+]);
+$this->registerMetaTag([
+	'property' => 'og:url',
+	'content' => 'http://arroziy.uz'.Yii::$app->request->url
+]);
+$this->registerMetaTag([
+	'property' => 'og:image',
+	'content' => 'http://arroziy.uz'.$route.$model->img
+]);
+$this->registerMetaTag([
+	'property' => 'og:type',
+	'content' => 'article'
+]);
+$this->registerMetaTag([
+	'property' => 'og:site_name',
+	'content' => 'Arroziy.uz'
 ]);
 ?>
 <!-- Banner Area Start -->
@@ -34,17 +60,15 @@ $this->registerMetaTag([
             <div class="col-md-8">
                 <div class="row">
                     <h1 class="page-title"><?= $model->title?></h1>
-                    <div class="page-content pt-40">
+                    <div class="page-content pt-40" id="mine-content">
                         <img src="<?= $route.$model->img?>" alt="Arroziy" class="myitem-img">
-                        <div class="myitem-info mt-10">
+                        <div class="myitem-info mt-20 pb-25">
                             <span class="myitem-date">
                                 <i class="fa fa-calendar"></i>
                                 <?= $model->date?>
                             </span>
                         </div>
-                        <p class="myitem-text mt-10">
-                            <?=$model->text?>
-                        </p>
+                        <?=$model->text?>
                     </div>
                 </div>
             </div>

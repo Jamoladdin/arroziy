@@ -15,7 +15,7 @@ return [
     'components' => [
         'request' => [
             'csrfParam' => '_csrf-backend',
-            'baseUrl' => '/arrmin',
+            'baseUrl' => '/admin',
         ],
         'user' => [
             'identityClass' => 'common\models\User',
@@ -44,8 +44,8 @@ return [
 //            'suffix' => '.html',
             'rules' => [
                 [
-                    'pattern'=>'/',
-                    'route' => 'site/index',
+                    'pattern'=>'/admin',
+                    'route' => 'admin/site/index',
                     'suffix' => '',
                 ],
 

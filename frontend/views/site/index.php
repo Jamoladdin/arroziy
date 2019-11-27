@@ -2,8 +2,18 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'Бош саҳифа';
+$this->title = 'Arroziy o\'tra maxsus bilim yurti';
+$this->registerMetaTag([
+    'name' => 'description',
+    'content' => "Аррозий ўрта махсус билим юрти расмий веб сахифаси, Arroziy o'tra maxsus bilim yurti rasmiy web sahifasi"
+]);
+
+$this->registerMetaTag([
+    'name' => 'keywords',
+    'content' => "Arroziy.uz, Arroziy, Bosh sahifa, Arroziy o'tra maxsus bilim yurti, Arroziy o'tra maxsus bilim yurti rasmiy web sahifasi, Аррозий, Бош сахифа, Аррозий ўрта махсус билим юрти, Аррозий ўрта махсус билим юрти расмий веб сахифаси"
+]);
 ?>
+
 <!-- Background Area Start -->
 <section id="slider-container" class="slider-area">
     <div class="slider-owl owl-theme owl-carousel">
@@ -61,7 +71,7 @@ $this->title = 'Бош саҳифа';
                 <div class="single-service text-center">
                     <div style="height: 200px;">
                         <h3><a href="/history">МАДРАСА ТАРИХИ</a></h3>
-                        <p>МАДРАСА ТАРИХИ</p>
+                        <p>Имом Фахриддин ар–Розий ислом мадрасаси 1992 йилда Хонка туманидаги «Холифаи Худойкули эшон бобо» жомеъ масжиди биносида уз фаолиятини бошлади.</p>
                     </div>
                     <a href="/history" class="btn btn-info">Тўлиқ ўқиш</a>
                 </div>
@@ -213,7 +223,7 @@ $this->title = 'Бош саҳифа';
 </div>
 <!-- Testimonial Area End -->
 <!-- Blog Area Start -->
-<div class="blog-area pt-80 pb-150">
+<div class="blog-area pt-80 pb-80">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
@@ -251,3 +261,120 @@ $this->title = 'Бош саҳифа';
     </div>
 </div>
 <!-- Blog Area End -->
+<!-- Blog Area Start -->
+<div class="blog-area pt-80 pb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="section-title text-center">
+                    <h2>ФОЙДАЛИ МАНБААЛАР</h2>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+			<div class="footer-carousel owl-carousel">
+				<a href="http://www.bukhari.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/bukhari.uz.png" alt=""></div>
+				</a>
+				<a href="http://fargonaziyo.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/fargonaziyo.uz.png" alt=""></div>
+				</a>
+				<a href="http://fitrat.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/fitrat.uz.png" alt=""></div>
+				</a>
+				<a href="http://hidoyat.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/hidoyat.uz.png" alt=""></div>
+				</a>
+				<a href="http://imon.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/imon.uz.png" alt=""></div>
+				</a>
+				<a href="http://islaminstitut.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/islaminstitut.uz.png" alt=""></div>
+				</a>
+				<a href="https://islom.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/islom.uz.png" alt=""></div>
+				</a>
+				<a href="http://islomota.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/islomota.uz.jpg" alt=""></div>
+				</a>
+				<a href="https://kukaldosh.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/kukaldosh.uz.jpg" alt=""></div>
+				</a>
+				<a href="http://mehrob.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/mehrob.uz.png" alt=""></div>
+				</a>
+				<a href="http://mirarabmadrasa.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/mirarabmadrasa.uz.png" alt=""></div>
+				</a>
+				<a href="http://muslimun.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/muslimun.uz.png" alt=""></div>
+				</a>
+				<a href="http://naqshband.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/naqshband.uz.jpg" alt=""></div>
+				</a>
+				<a href="https://nasafziyo.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/nasafziyo.uz.png" alt=""></div>
+				</a>
+				<a href="http://nasihat.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/nasihat.uz.png" alt=""></div>
+				</a>
+				<a href="http://paziylet.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/paziylet.uz.jpg" alt=""></div>
+				</a>
+				<a href="http://ravza.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/ravza.uz.png" alt=""></div>
+				</a>
+				<a href="https://religions.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/religions.uz.png" alt=""></div>
+				</a>
+				<a href="http://sammuslim.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/sammuslim.uz.png" alt=""></div>
+				</a>
+				<a href="http://sirdaryomuslim.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/sirdaryomuslim.uz.png" alt=""></div>
+				</a>
+				<a href="http://surxonmuslim.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/surxonmuslim.uz.png" alt=""></div>
+				</a>
+				<a href="http://vakillik.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/vakillik.uz.png" alt=""></div>
+				</a>
+				<a href="http://xatib.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/xatib.uz.png" alt=""></div>
+				</a>
+				<a href="" target="_blank">
+					<div class="item"> <img src="/carousel/ziyo.uz.png" alt=""></div>
+				</a>
+				<a href="http://ziyonet.uz/" target="_blank">
+					<div class="item"> <img src="/carousel/ziyonet.uz.png" alt=""></div>
+				</a>
+			</div>
+        </div>
+    </div>
+</div>
+<!-- Blog Area End -->
+<?php
+$this->registerJs("
+    $(document).ready(function(){
+        $('.footer-carousel').owlCarousel({
+            items:4,
+		    loop:true,
+		    margin:10,
+		    autoplay:true,
+		    autoplayTimeout:2000,
+		    responsiveClass:true,
+		    responsive:{
+		        0:{
+		            items:2,
+		        },
+		        600:{
+		            items:4,
+		        },
+		        1000:{
+		            items:8,
+		        }
+		    }
+        });
+    });"
+    , \yii\web\View::POS_READY);
+?>

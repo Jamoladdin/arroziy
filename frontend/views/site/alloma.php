@@ -2,13 +2,36 @@
 $this->title = 'Юртимиз алломалари';
 $this->registerMetaTag([
     'name' => 'description',
-    'content' => 'Юртимиз алломалари, Yurtimiz allomalar'
+    'content' => 'Юртимиз алломалари, Yurtimiz allomalar, Arroziy'
 ]);
 
 $this->registerMetaTag([
     'name' => 'keywords',
-    'content' => 'Arroziy.uz, Юртимиз алломалари, Yurtimiz allomalar'
+    'content' => 'Arroziy, Arroziy.uz, Юртимиз алломалари, Yurtimiz allomalar'
 ]);
+
+$this->registerMetaTag([
+    'property' => 'og:title',
+    'content' => 'Юртимиз алломалари'
+]);
+
+$this->registerMetaTag([
+    'property' => 'og:description',
+    'content' => 'Юртимиз алломалари'
+]);
+$this->registerMetaTag([
+	'property' => 'og:url',
+	'content' => 'http://arroziy.uz'.Yii::$app->request->url
+]);
+$this->registerMetaTag([
+	'property' => 'og:type',
+	'content' => 'website'
+]);
+$this->registerMetaTag([
+	'property' => 'og:site_name',
+	'content' => 'Arroziy.uz'
+]);
+
 ?>
 <!-- Banner Area Start -->
 <div class="banner-area-wrapper">
