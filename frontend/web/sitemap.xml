@@ -1,182 +1,377 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>http://arroziy.uz/</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/history</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/director</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/news</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articles</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/suggest</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/moral</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/library</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/dormitory</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/note</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/totaldocuments</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/kuron</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/aqida</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/fiqh</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/tafsir</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/xadis</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/arab</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/alloma</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/islom</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/audio</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/photo</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/video</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
-</url>
-<url>
-  <loc>http://arroziy.uz/course-details.html</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/newsid/24</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/newsid/23</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/newsid/22</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/articlesid/14</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/articlesid/13</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/articlesid/12</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/articlesid/10</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/9</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/8</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/7</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/6</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/21</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/20</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/19</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/18</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/17</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/16</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/15</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/news?page=1&amp;per-page=10</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/news?page=2&amp;per-page=10</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/news?page=3&amp;per-page=10</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/5</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/4</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/articles?page=1&amp;per-page=10</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/articles?page=2&amp;per-page=10</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/kuronid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/aqidaid/2</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/aqidaid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/fiqhid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/tafsirid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/xadisid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/arabid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/allomaid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/islomid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/14</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/13</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/12</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/11</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/10</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/9</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/8</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/7</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/6</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/5</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/4</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/3</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/2</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/newsid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/3</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://arroziy.uz/articlesid/2</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/tavsiyaid</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
+  <loc>http://arroziy.uz/articlesid/1</loc>
+  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
-<url>
-  <loc>http://arroziy.uz/tasvir</loc>
-  <priority>1.0</priority>
-  <lastmod>2019-11-27</lastmod>
-</url>
+
+
+</urlset>
