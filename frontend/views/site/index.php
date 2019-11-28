@@ -107,7 +107,7 @@ $this->registerMetaTag([
                     <h2>Илм ҳазинадир, унинг калити еса сўрашрир. </h2>
                     <p>Севикли Пайғамбаримиз Муҳаммад мустафо соллаллоҳу алайҳи васаллам: "Илм талаб қилиш ҳар бир муслим учун фарздир", деганлар. </p>
                     <p class="choose-option">     Яхшилаб мулоҳаза қилсак илмдан юз ўгириш жами яхшиликдан юз ўгириш демакдир. Илмни баъзи сабабларга кўра ташлаб кетмоқчи бўлганларнинг аксарияти мажбурликдан, оила боқолмаслиги, хотираси сустлиги эмас, қалбларидаги махфий дунёга бўлган шаҳватдандир. Негаки, илм олиш, уни ўрганиш, ўрганганларини такрорлаш, ёдда сақлаш, унга амал қилиш жуда ҳам мушкул иш бўлганидан, кўп толиби илмлар оила қуриб ёхуд ўзини савдо сотиққа уриб, илм машаққатига тоқат қиломайдилар. Осон йўлларни танлаб кетадилар. </p>
-                    <a class="default-btn" href="course-details.html">Тўлиқ ўқиш</a>
+                    <a class="default-btn" href="#">Тўлиқ ўқиш</a>
                 </div>
             </div>
         </div>
@@ -129,7 +129,7 @@ $this->registerMetaTag([
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-course">
                     <div class="course-img">
-                        <a href="/newsid/<?= $item->id?>"><img src="/backend/web/321/x10/<?= $item->img?>" alt="course">
+                        <a href="/newsid/<?= $item->id?>"><img src="/backend/web/321/x10/<?= $item->img?>" alt="Аррозий ўрта махсус билим юрти">
                             <div class="course-hover">
                                 <i class="fa fa-link"></i>
                             </div>
@@ -208,10 +208,10 @@ $this->registerMetaTag([
                     <div class="single-testimonial">
                         <div class="testimonial-info">
                             <div class="testimonial-img">
-                                <img src="/backend/web/321/ty10/<?= $item->img?>" alt="">
+                                <img src="/backend/web/321/ty10/<?= $item->img?>" alt="Аррозий ўрта махсус билим юрти">
                             </div>
                             <div class="testimonial-content">
-                                <h4><a href="/tavsiyaid"><?= $item->title?></a></h4>
+                                <h4><a href="/kuronid"><?= $item->title?></a></h4>
                             </div>
                         </div>
                     </div>
@@ -274,79 +274,79 @@ $this->registerMetaTag([
         <div class="container">
 			<div class="footer-carousel owl-carousel">
 				<a href="http://www.bukhari.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/bukhari.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/bukhari.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://fargonaziyo.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/fargonaziyo.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/fargonaziyo.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://fitrat.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/fitrat.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/fitrat.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://hidoyat.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/hidoyat.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/hidoyat.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://imon.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/imon.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/imon.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://islaminstitut.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/islaminstitut.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/islaminstitut.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="https://islom.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/islom.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/islom.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://islomota.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/islomota.uz.jpg" alt=""></div>
+					<div class="item"> <img src="/carousel/islomota.uz.jpg" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="https://kukaldosh.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/kukaldosh.uz.jpg" alt=""></div>
+					<div class="item"> <img src="/carousel/kukaldosh.uz.jpg" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://mehrob.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/mehrob.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/mehrob.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://mirarabmadrasa.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/mirarabmadrasa.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/mirarabmadrasa.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://muslimun.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/muslimun.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/muslimun.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://naqshband.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/naqshband.uz.jpg" alt=""></div>
+					<div class="item"> <img src="/carousel/naqshband.uz.jpg" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="https://nasafziyo.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/nasafziyo.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/nasafziyo.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://nasihat.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/nasihat.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/nasihat.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://paziylet.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/paziylet.uz.jpg" alt=""></div>
+					<div class="item"> <img src="/carousel/paziylet.uz.jpg" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://ravza.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/ravza.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/ravza.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="https://religions.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/religions.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/religions.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://sammuslim.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/sammuslim.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/sammuslim.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://sirdaryomuslim.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/sirdaryomuslim.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/sirdaryomuslim.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://surxonmuslim.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/surxonmuslim.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/surxonmuslim.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://vakillik.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/vakillik.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/vakillik.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://xatib.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/xatib.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/xatib.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="" target="_blank">
-					<div class="item"> <img src="/carousel/ziyo.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/ziyo.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 				<a href="http://ziyonet.uz/" target="_blank">
-					<div class="item"> <img src="/carousel/ziyonet.uz.png" alt=""></div>
+					<div class="item"> <img src="/carousel/ziyonet.uz.png" alt="Аррозий ўрта махсус билим юрти"></div>
 				</a>
 			</div>
         </div>

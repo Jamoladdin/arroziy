@@ -66,7 +66,7 @@ $this->registerMetaTag([
                                 <?= $item->date?>
                             </span>
                             </div>
-                            <img src="/backend/web/321/ar10/<?= $item->img?>" alt="" class="myitem-img">
+                            <img src="/backend/web/321/ar10/<?= $item->img?>" alt="Аррозий ўрта махсус билим юрти" class="myitem-img">
                             <p class="myitem-text mt-10"><?= $item->text?></p>
                             <a href="/arabid/<?= $item->id?>" class="btn btn-danger myitem-btn mt-10 mb-10 pull-right clear">Тўлиқ ўқиш</a>
                         </div>
@@ -98,7 +98,7 @@ $this->registerMetaTag([
                         <h3>янги хабарлар</h3>
                         <div class="single-blog-banner mb-30">
                             <div class="single-blog-banner">
-                                <a href="/newsid/<?= $model2[0]->id?>"><img src="/backend/web/321/x10/<?=$model2[0]->img?>" style="width: 306px; height: 313px; object-fit: cover;" alt=""></a>
+                                <a href="/newsid/<?= $model2[0]->id?>"><img src="/backend/web/321/x10/<?=$model2[0]->img?>" style="width: 306px; height: 313px; object-fit: cover;" alt="Аррозий ўрта махсус билим юрти"></a>
                                 <h2><?= $model2[0]->title?></h2>
                                 <p>Arroziy  /  <?= date('M d, Y', strtotime($model2[0]->date))?></p>
                             </div>
@@ -106,7 +106,7 @@ $this->registerMetaTag([
                         <?php for($i=1; $i<7; $i++){ if(!isset($model2[$i])) break ?>
                             <div class="single-post mb-30">
                                 <div class="single-post-img">
-                                    <a href="/newsid/<?= $model2[$i]->id?>"><img src="/backend/web/321/x10/<?=$model2[$i]->img?>" alt="">
+                                    <a href="/newsid/<?= $model2[$i]->id?>"><img src="/backend/web/321/x10/<?=$model2[$i]->img?>" alt="Аррозий ўрта махсус билим юрти">
                                         <div class="blog-hover">
                                             <i class="fa fa-link"></i>
                                         </div>

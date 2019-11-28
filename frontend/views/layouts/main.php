@@ -39,7 +39,7 @@ AppAsset::register($this);
             <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-6">
                     <div class="logo">
-                        <a href="/"><img src="<?=Yii::$app->request->baseUrl?>/img/logo/logo1.png" alt="eduhome"></a>
+                        <a href="/"><img src="<?=Yii::$app->request->baseUrl?>/img/logo/logo1.png" alt="Аррозий ўрта махсус билим юрти"></a>
                     </div>
                 </div>
                 <div class="col-md-9 col-sm-9 col-xs-12">
@@ -123,7 +123,7 @@ AppAsset::register($this);
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="single-widget pr-60">
                         <div class="footer-logo pb-25">
-                            <a href="/"><img src="<?=Yii::$app->request->baseUrl?>/img/logo/footer-logo2.png" alt="eduhome"></a>
+                            <a href="/"><img src="<?=Yii::$app->request->baseUrl?>/img/logo/footer-logo2.png" alt="Аррозий ўрта махсус билим юрти"></a>
                         </div>
                         <p>Ижтимоий тармоқлардаги манзилларимиз</p>
                         <div class="footer-social">
