@@ -4,9 +4,11 @@ use yii\helpers\Html;
 
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Audio */
+/* @var $model common\models\Audio */
 
 $this->title = 'Yangi Audio';
+$this->params['breadcrumbs'][] = ['label' => 'Audio', 'url' => 'index'];
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="audio-create">
 

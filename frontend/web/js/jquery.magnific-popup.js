@@ -1578,11 +1578,11 @@ $.magnificPopup.registerModule(IFRAME_NS, {
 
 		// we don't care and support only one default type of URL by default
 		patterns: {
-			youtube: {
-				index: 'youtube.com',
-				id: 'v=',
-				src: 'https://www.youtube.com/embed/%id%?autoplay=1'
-			},
+			// youtube: {
+			// 	index: 'youtube.com',
+				// id: 'v=',
+				// src: 'https://www.youtube.com/embed/%id%?autoplay=1'
+			// },
 			vimeo: {
 				index: 'vimeo.com/',
 				id: '/',

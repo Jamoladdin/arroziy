@@ -4,10 +4,11 @@ use yii\helpers\Html;
 use yii\grid\GridView;
 
 /* @var $this yii\web\View */
-/* @var $searchModel backend\models\PhotoSearch */
+/* @var $searchModel common\models\PhotoSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
 $this->title = 'Suratlar';
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="photo-index">
 
@@ -28,14 +29,14 @@ $this->title = 'Suratlar';
                 'format' => ['image',['width'=>400]],
                 'options' => ['class' => ''],
                 'value' => function($data) {
-                    return '/backend/web/322/p20/'.$data->name;
+                    return '../../frontend/web/mediaphoto/'.$data->name;
                 }
             ],
             'date',
 
             [
                 'class' => 'yii\grid\ActionColumn',
-                'template' => '{view}'
+                'template' => '{view} {delete}'
             ],
         ],
     ]); ?>

@@ -3,9 +3,12 @@
 use yii\helpers\Html;
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Tuzilma */
+/* @var $model common\models\Tuzilma */
 
-$this->title = 'O\'zgartirish: ' . $model->tuzilma->name;
+$this->title = 'Yangilash: ' . $model->name;
+$this->params['breadcrumbs'][] = ['label' => 'Tuzilma', 'url' => ['index']];
+$this->params['breadcrumbs'][] = ['label' => $model->name, 'url' => ['view', 'id' => $model->id]];
+$this->params['breadcrumbs'][] = 'Yangilash';
 ?>
 <div class="tuzilma-update">
 

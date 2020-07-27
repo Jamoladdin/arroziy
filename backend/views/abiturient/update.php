@@ -3,9 +3,12 @@
 use yii\helpers\Html;
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Abiturient */
+/* @var $model common\models\Abiturient */
 
-$this->title = 'O\'zgartirish: ' . $model->abiturient->name;
+$this->title = 'Yangilash: ' . $model->name;
+$this->params['breadcrumbs'][] = ['label' => 'Abiturientlarga', 'url' => ['index']];
+$this->params['breadcrumbs'][] = ['label' => $model->name, 'url' => ['view', 'id' => $model->id]];
+$this->params['breadcrumbs'][] = 'Yangilash';
 ?>
 <div class="abiturient-update">
 

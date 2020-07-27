@@ -4,19 +4,21 @@ use yii\helpers\Html;
 use yii\widgets\DetailView;
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Photo */
+/* @var $model common\models\Photo */
 
 $this->title = $model->name;
+$this->params['breadcrumbs'][] = ['label' => 'Suratlar', 'url' => ['index']];
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="photo-view">
 
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        <?= Html::a('O\'chirish', ['delete', 'id' => $model->id], [
+        <?= Html::a("O'chirish", ['delete', 'id' => $model->id], [
             'class' => 'btn btn-danger',
             'data' => [
-                'confirm' => 'O\'chirmoqchimisiz?',
+                'confirm' => "Haqiqatan ham ushbu malumotni o'chirmoqchimisiz?",
                 'method' => 'post',
             ],
         ]) ?>
@@ -25,12 +27,13 @@ $this->title = $model->name;
     <?= DetailView::widget([
         'model' => $model,
         'attributes' => [
+            'date',
             [
                 'attribute' => 'name',
-                'format' => ['image',['width'=>'100%']],
+                'format' => 'image',
                 'options' => ['class' => ''],
                 'value' => function($data) {
-                    return '/backend/web/322/p20/'.$data->name;
+                    return '../../frontend/web/mediaphoto/'.$data->name;
                 }
             ],
         ],

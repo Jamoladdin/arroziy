@@ -5,15 +5,15 @@
 	Sticky Menu 
 --------------------------------------*/
  var windows = $(window);
-    var stick = $(".header-sticky");
-	windows.on('scroll',function() {    
-		var scroll = windows.scrollTop();
-		if (scroll < 5) {
-			stick.removeClass("sticky");
-		}else{
-			stick.addClass("sticky");
-		}
-	});  
+ var stick = $(".header-sticky");
+ windows.on('scroll',function() {
+     var scroll = windows.scrollTop();
+     if (scroll < 5) {
+         stick.removeClass("sticky");
+     }else{
+         stick.addClass("sticky");
+     }
+});
 /*------------------------------------
 	jQuery MeanMenu 
 --------------------------------------*/
@@ -50,8 +50,9 @@
 
     $('.partner-owl').owlCarousel({
         loop:true,
-        nav:true,
-        navText:['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
+        margin:10,
+        autoplay:true,
+        autoplayTimeout:2000,
         responsive:{
             0:{
                 items:1
@@ -60,10 +61,10 @@
                 items:3
             },
             1000:{
-                items:5
+                items:6
             }
         }
-    });  
+    });
 
     $('.testimonial-owl').owlCarousel({
         loop:true,
@@ -82,7 +83,7 @@
         }
     });
 /*------------------------------------
-	Video Player
+    Video Player
 --------------------------------------*/
     $('.video-popup').magnificPopup({
         type: 'iframe',
@@ -93,13 +94,13 @@
             enabled: true,
         }
     });
-    
+
     $('.image-popup').magnificPopup({
         type: 'image',
         gallery:{
             enabled:true
         }
-    }); 
+    });
 /*----------------------------
     Wow js active
 ------------------------------ */
@@ -113,18 +114,5 @@
         scrollSpeed: 900,
         animation: 'fade'
     });
-/*------------------------------------
-	Nicescroll
---------------------------------------*/
-     $('body').scrollspy({ 
-            target: '.navbar-collapse',
-            offset: 95
-        });
-$(".notice-left").niceScroll({
-            cursorcolor: "#EC1C23",
-            cursorborder: "0px solid #fff",
-            autohidemode: false,
-            
-        });
 
 })(jQuery);	

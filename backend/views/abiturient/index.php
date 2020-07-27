@@ -4,10 +4,11 @@ use yii\helpers\Html;
 use yii\grid\GridView;
 
 /* @var $this yii\web\View */
-/* @var $searchModel backend\models\AbiturientSearch */
+/* @var $searchModel common\models\AbiturientSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Abiturientga';
+$this->title = 'Abiturientlarga';
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="abiturient-index">
 
@@ -23,8 +24,8 @@ $this->title = 'Abiturientga';
         'columns' => [
             ['class' => 'yii\grid\SerialColumn'],
 
-            'abiturient.name',
-            'text:html',
+            'name',
+//            'slug',
 
             ['class' => 'yii\grid\ActionColumn'],
         ],

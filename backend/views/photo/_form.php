@@ -4,7 +4,7 @@ use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Photo */
+/* @var $model common\models\Photo */
 /* @var $form yii\widgets\ActiveForm */
 ?>
 
@@ -14,12 +14,14 @@ use yii\widgets\ActiveForm;
         'options' => ['enctype' => 'multipart/form-data']
     ]); ?>
 
-    <?= $form->field($model, 'imageFile')->fileInput() ?>
+    <?php if($model->isNewRecord) echo $form->field($model, 'picture')->fileInput(['required'=>'required']);
+    else echo $form->field($model, 'picture')->fileInput();
+    ?>
 
     <?= $form->field($model, 'date')->hiddenInput(['value' => date('Y-m-d')])->label(false) ?>
 
     <div class="form-group">
-        <?= Html::submitButton($model->isNewRecord ? 'Saqlash' : 'Saqlash', ['class' => $model->isNewRecord ? 'btn btn-success' : 'btn btn-primary']) ?>
+        <?= Html::submitButton('Saqlash', ['class' => 'btn btn-success']) ?>
     </div>
 
     <?php ActiveForm::end(); ?>

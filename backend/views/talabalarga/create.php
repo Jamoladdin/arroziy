@@ -4,10 +4,10 @@ use yii\helpers\Html;
 
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Talabalarga */
+/* @var $model common\models\Talabalarga */
 
-$this->title = 'Create Talabalarga';
-$this->params['breadcrumbs'][] = ['label' => 'Talabalargas', 'url' => ['index']];
+$this->title = 'Yangi';
+$this->params['breadcrumbs'][] = ['label' => 'Talabalarga', 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="talabalarga-create">

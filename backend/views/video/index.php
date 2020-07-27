@@ -4,10 +4,11 @@ use yii\helpers\Html;
 use yii\grid\GridView;
 
 /* @var $this yii\web\View */
-/* @var $searchModel backend\models\VideoSearch */
+/* @var $searchModel common\models\VideoSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Videolar';
+$this->title = 'Video';
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="video-index">
 
@@ -22,21 +23,10 @@ $this->title = 'Videolar';
         'columns' => [
             ['class' => 'yii\grid\SerialColumn'],
 
-            [
-                'attribute' => 'name',
-                'format' => 'raw',
-                'value' => function($data){
-                    return '<iframe width="100%" height="315"
-                                    src="'.$data->name.'">
-                            </iframe>';
-                }
-            ],
+            'title',
             'date',
 
-            [
-                'class' => 'yii\grid\ActionColumn',
-                'template' => '{delete}',
-            ],
+            ['class' => 'yii\grid\ActionColumn'],
         ],
     ]); ?>
 </div>

@@ -35,7 +35,7 @@ return [
             ],
         ],
         'errorHandler' => [
-            'errorAction' => 'site/error',
+            'errorAction' => 'basicmuallima/error',
         ],
         'urlManager' => [
             'enablePrettyUrl' => true,
@@ -43,7 +43,7 @@ return [
             'rules' => [
                 [
                     'pattern'=>'',
-                    'route' => 'site/index',
+                    'route' => 'basicmuallima/index',
                     'suffix' => '',
                 ],
                 [
@@ -51,23 +51,39 @@ return [
                     'route' => 'gii',
                     'suffix' => '',
                 ],
-                '<action:\w+>/<id:\d+>' => 'site/<action>',
-                '<action:\w+>' => 'site/<action>',
+
+                'tuzilma/<slug:[a-z0-9_\-]+>' => 'basicmuallima/tuzilma',
+                'talabalarga/<slug:[a-z0-9_\-]+>' => 'basicmuallima/talabalarga',
+                'abiturientlarga/<slug:[a-z0-9_\-]+>' => 'basicmuallima/abiturientlarga',
+
+                'media/audio' => 'basicmuallima/audio',
+                'media/foto' => 'basicmuallima/foto',
+                'media/video' => 'basicmuallima/video',
+
+                'ilm/<slug:[a-z0-9_\-]+>' => 'basicmuallima/ilm',
+                'ilm/<ilm:[a-z0-9_\-]+>/<year:\d+>/<month:\d+>/<day:\d+>/<slug:[a-z0-9_\-]+>' => 'basicmuallima/ilm-view',
+
+                'mutolaa/<slug:[a-z0-9_\-]+>' => 'basicmuallima/mutolaa',
+                'mutolaa/<mutolaa:[a-z0-9_\-]+>/<year:\d+>/<month:\d+>/<day:\d+>/<slug:[a-z0-9_\-]+>' => 'basicmuallima/mutolaa-view',
             ],
         ],
-        'i18n' => [
-            'translations' => [
-                'app*' => [
-                    'class' => 'yii\i18n\PhpMessageSource',
-                    'basePath' => '@app/messages',
-                    //'sourceLanguage' => 'en-US',
-                    'fileMap' => [
-                        'app' => 'app.php',
-                        'app/error' => 'error.php',
-                    ],
-                ],
-            ],
+        'assetManager' => [
+            'basePath' => '@webroot/assets',
+            'baseUrl' => '@web/assets'
         ],
+//        'i18n' => [
+//            'translations' => [
+//                'app*' => [
+//                    'class' => 'yii\i18n\PhpMessageSource',
+//                    'basePath' => '@app/messages',
+//                    //'sourceLanguage' => 'en-US',
+//                    'fileMap' => [
+//                        'app' => 'app.php',
+//                        'app/error' => 'error.php',
+//                    ],
+//                ],
+//            ],
+//        ],
     ],
     'params' => $params,
 ];

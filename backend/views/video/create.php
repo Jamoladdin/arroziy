@@ -4,9 +4,11 @@ use yii\helpers\Html;
 
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Video */
+/* @var $model common\models\Video */
 
 $this->title = 'Yangi Video';
+$this->params['breadcrumbs'][] = ['label' => 'Video', 'url' => 'index'];
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="video-create">
 

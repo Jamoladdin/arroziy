@@ -4,9 +4,11 @@ use yii\helpers\Html;
 
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Photo */
+/* @var common backend\models\Photo */
 
 $this->title = 'Yangi';
+$this->params['breadcrumbs'][] = ['label' => 'Suratlar', 'url' => 'index'];
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="photo-create">
 

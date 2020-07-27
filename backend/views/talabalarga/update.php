@@ -3,9 +3,12 @@
 use yii\helpers\Html;
 
 /* @var $this yii\web\View */
-/* @var $model backend\models\Talabalarga */
+/* @var $model common\models\Talabalarga */
 
-$this->title = 'Talabalarga: ' . $model->talabalarga->name;
+$this->title = 'Yangilash: ' . $model->name;
+$this->params['breadcrumbs'][] = ['label' => 'Talabalarga', 'url' => ['index']];
+$this->params['breadcrumbs'][] = ['label' => $model->name, 'url' => ['view', 'id' => $model->id]];
+$this->params['breadcrumbs'][] = 'Yangilash';
 ?>
 <div class="talabalarga-update">
 

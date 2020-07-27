@@ -36,7 +36,6 @@
 /*----------------------------------------*/
 /*  1. Default CSS
 /*----------------------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800');
 body {
 	color: #606060;
 	font-size: 14px;
@@ -183,7 +182,7 @@ textarea {
 .banner-content {
     padding: 162px 0 164px;
 }
-.banner-content h2{
+.banner-content h1{
     font-size: 40px;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
@@ -582,7 +581,7 @@ textarea {
   position: absolute;
   width: 100%;
   z-index: 99;
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(0,0,0,0.6);
 }
 .main-menu{display: inline-block}
 .main-menu ul li {
@@ -603,6 +602,7 @@ textarea {
     text-align: right;
 }
 .main-menu nav > ul > li > a {
+    cursor: pointer;
     color: #fff;
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
@@ -627,9 +627,9 @@ textarea {
 .sticky .one.main-menu ul li ul {top: 100%}
 .main-menu ul li ul {
     background: #ffffff none repeat scroll 0 0;
-    left: -67px;
+    right: -25px;
     opacity: 0;
-    padding: 10px 18px;
+    /*padding: 10px 18px;*/
     position: absolute;
     text-align: left;
     top: 100%;
@@ -647,13 +647,19 @@ textarea {
 .main-menu ul li ul li {
     display: block;
     margin: 0;
-    padding: 7px 0;
+    padding: 12px 15px;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #fcd6d8;
+}
+.main-menu ul li ul li:hover {
+    background-color: #fafafa;
 }
 .main-menu nav ul li ul li a {
     color: #252525;
     display: block;
     font-size: 14px;
-    line-height: 26px;
+    line-height: 20px;
+    word-break: break-word;
     padding: 0;
     text-transform: capitalize;
 }
@@ -663,7 +669,7 @@ textarea {
     line-height: 20px;
     margin-right: 22px;
 }
-.main-menu ul li ul li:hover > a {padding-left: 5px;color: #EC1C23}
+/*.main-menu ul li ul li:hover > a {padding-left: 5px;color: #EC1C23}*/
 .main-menu ul li ul li a:before {display: none;}
 .main-menu ul li ul li > ul {
     left: 100%;
@@ -729,7 +735,7 @@ textarea {
     -webkit-transition: all 0.6s ease 0s;
     -o-transition: all 0.6s ease 0s;
     transition: all 0.6s ease 0s;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.75);
     box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.04);
     left: 0;
     padding: 0;
@@ -1036,7 +1042,7 @@ textarea {
     font-size: 52px;
     font-weight: 800;
     line-height: 58px;
-    padding-top: 80px;
+    padding-top: 90px;
     text-transform: capitalize;
     -webkit-animation-delay: 0.7s;
             animation-delay: 0.7s;
@@ -1290,16 +1296,17 @@ textarea {
     width: 100%;
     height: 100%;
     content: "";
-    background: rgba(44, 43, 94, 0.9);
+    background: rgba(44, 43, 94, 0.6);
 }
 .choose-area:before{
     position: absolute;
     right: 130px;
     bottom: 0;
-    width: 293px;
-    height: 506px;
+    width: 320px;
+    height: 94%;
     content: "";
-    background: url(../img/choose/choose.png);
+    /*background: url(../img/choose/choose.jpg);*/
+    background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
 }
@@ -1311,6 +1318,7 @@ textarea {
 .choose-content h2{
     color: #fefefe;
     font-size: 34px;
+    word-break: break-word;
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
@@ -1318,7 +1326,7 @@ textarea {
 }
 .choose-content p{
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 20px;
 }
@@ -1350,9 +1358,10 @@ textarea {
     object-fit: cover;
 }
 .course-content h3{
-    height: 110px;
+    height: 96px;
     overflow: hidden;
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 24px;
     color: #303030;
     text-transform: uppercase;
     font-weight: 700;
@@ -1559,9 +1568,12 @@ textarea {
     display: block;
 }
 .event-content{overflow: hidden; padding: 18px 0 20px}
-.event-content-left{float: left}
+.event-content-left{float: left;width: 64%;}
 .event-content-left h4{
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 26px;
+    overflow: hidden;
+    height: 56px;
     color: #303030;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
@@ -1591,7 +1603,7 @@ textarea {
     color: #303030;
     background: transparent;
     border: 1px solid #E1E1E1;
-    font-weight: 400;
+    font-weight: 500;
     padding: 8px 15px 8px;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
@@ -1826,7 +1838,7 @@ textarea {
     width: 100%;
     height: 100%;
     content: "";
-    background: rgba(44, 43, 94, 0.9);
+    background: rgba(44, 43, 94, 0.8);
 }
 .testimonial-area.three{background: #FAFAFA}
 .testimonial-area.three:after{display: none}
@@ -1838,8 +1850,8 @@ textarea {
     width: 77px;
 }
 .testimonial-img {
-    height: 120px;
-    width: 120px;
+    height: 200px;
+    width: 200px;
 }
 .testimonial-img img{
     border-radius: 50%;
@@ -1863,7 +1875,8 @@ textarea {
 }
 .testimonial-content h4{
     font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
+    line-height: 34px;
     font-weight: 600;
     color: #fff;
     margin-bottom: 4px;
@@ -1873,20 +1886,12 @@ textarea {
 /*  9. Blog CSS
 /*----------------------------------------*/
 .single-blog{
-    box-shadow: 5px 5px 6px 4px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    background-color: #4f4da1;
-    color: #fff;
-    border-radius: 4px;
-    transition: box-shadow .2s linear;
-}
-.single-blog:hover {
-    box-shadow: none;
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.15)
 }
 .blog-area .section-title h2 {
     margin-bottom: 55px;
 }
-.blog-img{line-height: 0; position: relative; padding: 30px 0 20px;}
+.blog-img{line-height: 0; position: relative}
 .blog-img a:after{
     position: absolute;
     left: 0;
@@ -1902,12 +1907,14 @@ textarea {
 }
 .blog-img img {
   width: 100%;
+  height: 246px;
+  object-fit: cover;
 }
 .blog-content{
-    padding: 0 10px 30px;
-    font-size: 20px;
-    line-height: 22px;
-    font-weight: bold;
+    /*padding: 0 10px 30px;*/
+    /*font-size: 20px;*/
+    /*line-height: 22px;*/
+    /*font-weight: bold;*/
 }
 /*
 .blog-hover {
@@ -1940,20 +1947,25 @@ textarea {
 .single-blog:hover .blog-img a:after, .single-blog:hover .blog-hover, .single-blog:hover .blog-hover i{opacity: 1}
 .blog-top p{
     font-size: 14px;
-    color: #606060;
+    color: #939393;
     font-family: 'Open Sans', sans-serif;
     padding: 15px 20px 10px 25px;
     border-bottom: 1px solid #E1E1E1;
 }
 .blog-top p i{
     font-size: 16px;
-    color: #606060;
+    color: #939393;
     margin-left: 5px;
 }
-.blog-bottom{padding: 26px 15px 30px 25px}
+.blog-bottom{padding: 6px 15px 20px 25px}
 .blog-bottom h2{margin-bottom: 14px}
 .blog-bottom h2 a{
     font-size: 18px;
+    display: block;
+    height: 48px;
+    line-height: 24px;
+    overflow: hidden;
+    letter-spacing: 0.5px;
     color: #303030;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
@@ -1987,9 +1999,9 @@ textarea {
     margin-bottom: 22px;
     line-height: 26px;
 
-    border: 1px solid #4b4a72;
+    border: 1px solid #EC1C23;
     padding: 8px 12px;
-    border-right: 18px solid #4b4a72;
+    border-right: 18px solid #EC1C23;
     border-radius: 4px;
 }
 .blog-search form input{
@@ -2028,22 +2040,26 @@ textarea {
 }
 .single-blog-widget ul li{
     display: block;
-    padding-bottom: 27px;
+    margin-bottom: 6px;
 }
 .single-blog-widget ul li:last-child{
     padding-bottom: 5px;
 }
 .single-blog-widget ul li a{
-    font-size: 14px;
+    padding: 10px;
+    display: block;
+    font-size: 16px;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     color: #606060;
+    border-radius: 4px;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
 }
 .single-blog-widget ul li:hover a{
-    color: #EC1C23;
+    color: #fff;
+    background-color: #EC1C23;
 }
 .single-blog-banner a{position: relative; display: block}
 .single-blog-banner a img{
@@ -2053,7 +2069,7 @@ textarea {
     height: 313px;
     object-fit: cover
 }
-.single-blog-banner a:after{
+.single-blog-banner > a:after{
     position: absolute;
     left: 0;
     top: 0;
@@ -2062,26 +2078,28 @@ textarea {
     background: rgba(0, 0, 0, 0.48);
     content: "";
 }
-.single-blog-banner{position: relative}
+.single-blog-banner{position:relative; box-shadow:4px 4px 9px 0 rgba(164, 164, 164, 0.3)}
 .single-blog-banner h2{
     position: absolute;
-    left: 20px;
-    top: 156px;
-    height: 108px;
+    left: 10px;
+    right: 10px;
+    top: 140px;
+    height: 100px;
     overflow: hidden;
-    font-size: 30px;
+    word-break: break-word;
+    font-size: 28px;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     color: #fefefe;
     z-index: 9;
-    line-height: 35px;
+    line-height: 34px;
 }
 .single-blog-banner p{
     position: absolute;
     left: 20px;
     bottom: 10px;
-    font-size: 12px;
+    font-size: 14px;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     color: #fefefe;
@@ -2091,7 +2109,7 @@ textarea {
     margin-right: 70px;
 }
 .single-post{
-    box-shadow: 4px 4px 8px 2px rgba(0,0,0,0.3);
+    box-shadow: 4px 4px 9px 0 rgba(164, 164, 164, 0.3);
 }
 .single-post-img{vertical-align: middle}
 .single-post-img a{float: left; margin-right: 20px; position: relative}
@@ -2123,7 +2141,11 @@ textarea {
 .single-post-content{overflow: hidden;height: 84px}
 .single-post-content h4{
     color: #303030;
-    font-size: 16px;
+    font-size: 17px;
+    line-height: 20px;
+    height: 40px;
+    overflow: hidden;
+    word-break: break-word;
     font-weight: 600;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 8px;
@@ -2131,7 +2153,7 @@ textarea {
 }
 .single-post-content p{
     color: #606060;
-    font-size: 12px;
+    font-size: 14px;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 0px;
 }
@@ -2154,26 +2176,38 @@ textarea {
     background: #2C2B5E;
     border: 1px solid #2C2B5E;
 }
-.blog-details-content{padding-top: 30px}
+.blog-details-content{padding-top: 30px;font-size: 17px}
+.blog-details-content ol, .blog-details-content ul{
+    padding-inline-start: 40px;
+    margin: 0 0 15px;
+}
+.blog-details-content ol{list-style: decimal}
+.blog-details-content ul{list-style: circle}
+.blog-details-img img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
 .blog-details-content h2{
     font-size: 24px;
+    line-height: 32px;
     color: #303030;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
-    margin-bottom: 5px;
+    margin-bottom: 40px;
 }
 .blog-details-content h6{
     font-size: 16px;
-    color: #606060;
+    color: #a4a4a4;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     margin-bottom: 35px;
 }
 .blog-details-content p{
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 17px;
     color: #606060;
-    margin-bottom: 25px; 
+    margin-bottom: 15px;
 }
 .blog-details-content p.quote{
     font-family: 'Open Sans', sans-serif;
@@ -2409,12 +2443,12 @@ textarea {
 .footer-social ul li a{
     border: 1px solid #DADADA;
     color: #7D7D7D;
-    height: 28px;
-    width: 28px;
+    height: 32px;
+    width: 32px;
     border-radius: 50%;
     display: block;
     text-align: center;
-    line-height: 26px;
+    line-height: 29px;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
@@ -2657,28 +2691,34 @@ textarea {
     color: #fff;
     background: #EC1C23;
 }
-.pagination ul{margin-top: 24px}
-.pagination ul li{display: inline-block; margin-right: 12px}
-.pagination ul li:last-child{margin-right: 0px}
-.pagination ul li a{    
-    /*font-size: 18px;
-    font-weight: 600;
+.pagination {margin-top: 24px}
+.pagination li{display: inline-block; margin-right: 6px}
+.pagination li:last-child{margin-right: 0px}
+.pagination li a, .pagination >li > span{
+    font-size: 18px;
+    /*font-weight: 600;*/
     font-family: 'Open Sans', sans-serif;
     color: #606060;
     background: #fff;
     text-align: center;
-    line-height: 36px;
-    height: 38px; 
-    width: 38px;
+    line-height: 27px;
+    height: 42px;
+    width: 42px;
     display: block; 
-    border: 1px solid #EBEBEB;
+    border: 1px solid #C0C0C0;
+    border-radius: 50% !important;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
-    transition: all 0.5s ease 0s;*/
+    transition: all 0.5s ease 0s;
 }
-.pagination ul li:hover a{    
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
     color: #fff;
-    background: #2C2B5E;  
+    background: #EC1C23;
 }
 .teacher-details-content{margin-top: 26px}
 .teacher-details-content h2 {

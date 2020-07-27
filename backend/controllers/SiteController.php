@@ -22,12 +22,13 @@ class SiteController extends Controller
                 'class' => AccessControl::className(),
                 'rules' => [
                     [
-                        'actions' => ['login'],
+                        'actions' => ['login', 'error'],
                         'allow' => true,
                     ],
                     [
+                        'actions' => ['logout', 'index'],
                         'allow' => true,
-                        'roles' => ['@'],
+                        'roles' => ['admin'],
                     ],
                 ],
             ],
@@ -74,7 +75,7 @@ class SiteController extends Controller
         }
 
         $model = new LoginForm();
-        if ($model->load(Yii::$app->request->post()) && $model->username=='arroziy-admin' && $model->login()) {
+        if ($model->load(Yii::$app->request->post()) && $model->username === 'arroziy-admin' && $model->login()) {
             return $this->goBack();
         } else {
             return $this->render('login', [
