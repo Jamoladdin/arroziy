@@ -1,376 +1,900 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
   <loc>http://arroziy.uz/</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/history</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/tuzilma/madrasa-tarixi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/tuzilma/rahbariyat</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/xabarlar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/tavsiya</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/talabalarga/ilm-talab-qilish-odoblari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/talabalarga/axborot-resurslari-markazi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/talabalarga/talabalar-turar-joyi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/abiturientlarga/eslatma</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/abiturientlarga/topshirilgan-hujjatlar-toplami</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/abiturientlarga/kop-soraladigan-savollar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/abiturientlarga/qabul-haqida</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/quron-va-tajvid</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/aqida</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/fiqx</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/tafsir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/xadis</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/arab-tili</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/yurtimiz-allomalari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/islom-tarihi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/media/audio</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/media/foto</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/media/video</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/ozbekistonda-diniy-erkinlik-yahshilanib-bormoqda</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/director</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/abiturientlarga-yordam-korsatish-uchun-telegram-gurux-tashkil-etildi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/news</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtiga-kirish-uchun-qanday-hujjatlar-talab-qilinadi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articles</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/ilm/quron-va-tajvid/2020/07/23/quron-zabt-etgan-qalblar-mansur-ibn-ammorning-qiroati</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/suggest</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/27/mahzunlik-yili-2020</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/moral</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/27/yahshilik-zulmatdan-nurga-etaklaydi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/library</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/12/manqurd-bolmang</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/dormitory</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/11/missionerlarning-maqsadlari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/note</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/11/doim-ilm-izla</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/totaldocuments</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/11/manaviy-taxdidning-yoshlarga-tasiri</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/kuron</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/11/fazilatli-kunlardan-bir-kun</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/aqida</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/04/manaviy-taxdid</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/fiqh</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/tavsiya/2020/07/25/rasulullox-sollalloxu-alayxi-va-sallam-dushanba-va-payshanba-kunlari-roza-tutganlar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/tafsir</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/ozbekistonda-diniy-erkinlik-yahshilanib-bormoqda/2020/07/23/ozbekistonda-diniy-erkinlik-yahshilanib-bormoqda</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/xadis</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/abiturientlarga-yordam-korsatish-uchun-telegram-gurux-tashkil-etildi/2020/07/23/abiturientlarga-yordam-korsatish-uchun-telegram-gurux-tashkil-etildi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/arab</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtiga-kirish-uchun-qanday-hujjatlar-talab-qilinadi/2020/07/23/imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtiga-kirish-uchun-qanday-hujjatlar-talab-qilinadi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/alloma</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/qabul-2020-imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtida-xujjatlar-onlayn-qabul-qilinadi/2020/07/23/qabul-2020-imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtida-xujjatlar-onlayn-qabul-qilinadi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/islom</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/ozbekiston-yangiliklari-abiturientlar-oliygoxlarga-xujjatlarni-onlayn-topshirishi-mumkin/2020/07/23/ozbekiston-yangiliklari-abiturientlar-oliygoxlarga-xujjatlarni-onlayn-topshirishi-mumkin</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/audio</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/yurtimiz-masjidlarida-namoz-oqishga-ruhsat-berildi/2020/07/23/yurtimiz-masjidlarida-namoz-oqishga-ruhsat-berildi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/photo</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/qabul-2020-imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtida-xujjatlar-onlayn-qabul-qilinadi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/video</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/ozbekiston-yangiliklari-abiturientlar-oliygoxlarga-xujjatlarni-onlayn-topshirishi-mumkin</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/24</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/yurtimiz-masjidlarida-namoz-oqishga-ruhsat-berildi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/23</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/talim-boyicha-takliflar-bering</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/22</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/muftiy-xazratlari-yurtimiz-musulmonlarini-ramazon-xayiti-bilan-tabrikladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/14</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar?page=2</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/13</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar?page=3</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/12</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=2</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/10</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=3</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/9</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=4</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/8</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=5</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/7</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=13</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/6</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/ilm/quron-va-tajvid/2020/07/23/tilovat-odobi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/21</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/ilm/quron-va-tajvid/2020/07/23/shayx-abdulbosit-muhammad-abdussamad</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/aqida/2020/07/23/shafoat-shafoatchiga-qarab-sakkiz-turli-bladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/fiqx/2020/07/23/janoza-namozi-qandaj-qiladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/fiqx/2020/07/23/zamonaviy-tehnologiyalarda-soyilgan-goshtlarning-xukmi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/ilm/arab-tili/2020/07/23/arablashgan-sozlarni-bilish-qoidalari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/din-ishlari-boyicha-qomita-hotin-qizlarga-murojaat-yolladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/20</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/iydul-fitr-2020-dunyo-mamlakatlari-ramazon-xayiti-bayrami-boshlanishini-elon-qildilar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/19</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/fitr-sadaqa-va-fidya-miqdori-elon-qilindi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/18</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/oyni-kuzatish-qomitasi-nima-deydi-xayit-qachon-bu-yilgi-ramazon-necha-kun-davom-etadi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/17</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/misr-bosh-imomi-axmad-toyyib-rim-papasi-frantsiskning-taklifini-maqulladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/16</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/orta-mahsus-islom-bilim-yurtlari-madrasalarga-kirish-uchun-qaysi-fanlardan-imtixon-topshiriladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/15</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/musulmonlar-makka-va-madinadagi-ikkita-muqaddas-masjidga-bir-necha-kun-ichida-qaytishlari-mumkin-dedi-saudiya-arabistonining-ikki-muqaddas-masjidlar-ishlari-boyicha-bosh-prezidenti-abdurraxmon-as-sudays</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/news?page=1&amp;per-page=10</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/urganch-shaxar-imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtida-5-ta-muxim-tashabbus-yuzasidan-musobaqa-tashkil-etildi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/news?page=2&amp;per-page=10</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/ozbekiston-musulmonlari-idorasi-raisi-muftiy-usmonhon-alimov-xazratlari-va-din-ishlari-boyicha-qomita-raisi-imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtiga-tashrif-buyurdi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/news?page=3&amp;per-page=10</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/jannat-onalar-oyogi-ostidadir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/5</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/imom-fahriddin-ar-roziy-orta-mahsus-islom-bilim-yurtida-gazal-mulkining-sultoni-alisher-navoiy-tavalludining-579-yilligiga-bagishlangan-manaviy-marifiy-tadbir-bolib-otdi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/4</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/imom-fahriddin-ar-roziy-omibyuda-musobaqa-tashkil-qilindi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articles?page=1&amp;per-page=10</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/imom-fahriddin-ar-roziy-omibyuda-yuqumli-kasalliklar-va-ulardan-ogox-bolish-mavzusida-uchrashuv-bolib-otdi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articles?page=2&amp;per-page=10</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/ozbekiston-respublikasi-prezidentining-oliy-majlisga-murojaatnomasi-targibotiga-bagishlangan-manaviy-marifiy-tadbir-otkazildi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/kuronid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/oquv-va-mashgulot-treninglar-otkazilmoqda</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/aqidaid/2</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/xabarlar/2020/07/23/16-noyabr-halqaro-diniy-bagrikenglik-kuni-munosabati-bilan-millatlararo-va-dinlararo-totuvlik-fuqarolar-xamjihatliking-asosi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/aqidaid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/04/turmush-qurishga-tayyormisiz</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/fiqhid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/04/nafsingni-jilovla-shunda-kuchlisan</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/tafsirid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/04/yahshilik-xam-sadaqadir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/xadisid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/04/ahborot-huruji-va-uning-salbiy-oqibatlari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/arabid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/04/togri-yoldan-chalgima</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/allomaid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/03/internetdagi-etiqod-buzgunchilaridan-extiyot-boling</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/islomid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/02/oilani-qaday-qilib-saqlab-qoldsa-boladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/14</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/07/01/musulmonlar-orasini-buzish-haromdir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/29/bidatning-tarifi-va-turlari-ikkinchi-maqola</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/29/bidatning-tarifi-va-turlari-birinchi-maqola</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/26/abul-moiyn-an-nasafiy-adashgan-firqalarga-raddiyalar-axamiyati</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/26/internet-olamida-mutaassiblik-va-dinimizga-yot-goyalarning-oldini-olish-choralari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/23/xorazm-yurtidan-yetishib-chiqqan-ulug-zotlar-va-ularning-faoliyati-ikkinchi-maqola</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/23/xorazm-yurtidan-yetishib-chiqqan-ulug-zotlar-va-ularning-faoliyati</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/20/kalom-ilmi-rivojida-nasafiy-allomalarning-orni</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/18/musulmonlar-orasiga-nizo-solish-xaromdir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/18/internet-ovchilari-ogox-boling</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/16/insonning-juft-qilib-yaratilishining-hikmati</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/16/bidat-hurofotlardan-ogox-bolaylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/09/karantin-koidalariga-amalqiling</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/09/loqaydlik-zaradir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/06/03/buzgunchi-goyalar-taxdididan-himoya</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/29/taxdid-nimaligini-bilasizmi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/29/missionerlar-tasiridan-saqlaning</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=6</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/23/xayit-bayrami-arafasidamiz</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/23/isloxotlar-sarxisobi-taraqqiyot-omilidir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/23/fitr-sadaqa-berdingizmi-kimlarga-qancha-miqdorda-qachon-berish-kerak-qanday-ximati-bor</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/23/ogaxiy-buyuk-siymo</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/23/kechirimlilik-mominlar-sifati</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/21/butun-umrlik-qazo-deb-atalgan-qazo-namozi-botildir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/15/laylatul-qadr-kechasi-qachon-boladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/13/yolgonchilik-yomon-illat</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=7</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/xalimlik-mominlar-sifati</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/oila-manaviyatimiz-tayanchi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/islomda-oilaning-mukaddasligi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/islom-mexr-shafqat-ustiga-qurilgan-din</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/islom-mexr-shafqat-dinidir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/ijtimoiy-tarmoq-tuzoqlari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/yomon-gumonlardan-chetda-boling</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=12</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=9</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=10</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=11</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/11/arab-tilining-rivojlanish-bosqichlari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/13</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/11/hotira-aziz-qadr-muqaddas</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/12</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/07/arab-tili-tarihiga-bir-nazar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/11</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/07/allox-taoloning-quroni-karimdagi-8-vadasi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/10</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/05/06/koronavirus-xaqida-xazil-mutoyiba-qilmang</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/9</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/30/dexqonchilik-rizq-rozimiz</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/8</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/30/ramazon-oyi-nafsni-tarbiyalash-oyidir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/7</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/30/ramazonni-oilamiz-davrasida-otkizaylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/6</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar?page=8</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/5</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/27/ramazon-quron-oyidir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/4</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/24/ramazon-oyi-muborak</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/3</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/24/uydan-chiqmang-uyda-qoling</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/2</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/18/yoshlarimizni-karantin-vaqtida-ilmga-ragbatlantiraylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/newsid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/08/bu-sinovli-kunlardan-ibrat-olaylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/3</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/08/mish-mishlar-uydirmalar-sohta-habarlar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/2</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/08/muallimlarning-fazli-xaqida</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://arroziy.uz/articlesid/1</loc>
-  <lastmod>2019-11-28T16:06:04+00:00</lastmod>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/08/uydan-chiqdingmi-tavba-qil</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
   <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/12/23/sabr-gozal-fazilat</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/12/04/muftiy-xazratlari-urganch-shaxridagi-madrasaga-tashrif-buyurdilar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/28/isrof-va-dabdababozlik-taraqqiyotimiz-dushmanidir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/28/sexr-islomga-zid-amal</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/28/sof-islom-aqidasini-saqlaylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/28/islom-sof-aqidadan-iborat</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/islom-bagrikenglikka-asoslangan-din</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/11/22/shaxidlik-niqobidagi-qotillik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/17/mazxab-nima-mazxabga-ergashmasam-nima-boladi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/17/meros-nimaligini-bilasizmi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/09/taxdid-nimaligini-bilasizmi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/09/missionerlik-va-prozelitizm</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/09/gunoxi-kabiralardan-biri</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/09/qaysi-joyda-azon-aytilsa-allox-u-joyni-balolardan-asraydi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/09/kimning-gapi-kopaysa-hatosi-xam-kopayadi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/09/omadli-bolishni-hoxlaysizmi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/31/missionerlar-xiylalari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/31/xaqiqiy-muxojir-kim</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/31/safarda-sunnat-namozlarni-oqish-mumkinmi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/31/oz-joniga-qasd-qilish-ulkan-gunohdir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/25/dinimiz-bizni-ezgulik-va-tinchlikka-chorlaydi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/23/momin-momin-uchun-kozgudir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/16/bolani-urish-odobdanmi-gazab-qurboni-bolgan-jajji-qollar</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/16/shogirdning-ustoziga-nisbatan-odoblari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/16/foydasiz-sozdan-tiyilish</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/16/mexmon-odoblari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/16/nikoxning-foydalari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/01/11/terror-islomga-yotdir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/12/24/ogaxiy-asarlarida-quroni-karim-oyatlarining-qollanilishi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/12/24/farzand-tarbiyasi-dolzarb-vazifa</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/12/24/islomda-oilaning-muqaddasligi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2019/12/24/ijtimoiy-bagrikenglik-tinchlik-va-taraqqiyot-garovidir</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/03/qanday-qilib-xanafiy-boldim</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/04/01/yaxshilik-qilishga-shoshilaylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/03/04/aqidada-adashmaylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/24/oilani-ijtimoiy-illatlardan-asraylik</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/22/musulmonni-kofirga-chiqarishning-hatarlari</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/20/imom-abu-mansur-al-moturidiy-axli-sunna-val-jamoa-aqidasining-ximoyachisi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/18/erkak-kishini-oilada-qanday-majburiyatlari-borligini-bilasizmi</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://arroziy.uz/mutolaa/maqolalar/2020/02/18/musulmon-boshqa-din-vakillariga-qanday-muomalada-bolishi-kerak</loc>
+  <lastmod>2020-07-27T17:57:09+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 
 

@@ -55,7 +55,7 @@ $this->registerMetaTag([
             <div class="col-md-8">
                 <div class="blog-details">
                     <div class="blog-details-img">
-                        <img src="/images/<?= $model->img?>" alt="Аррозий ўрта махсус билим юрти" class="myitem-img">
+                        <img src="/images/<?= $model->img?>" alt="Аррозий ўрта махсус билим юрти">
                     </div>
                     <div class="blog-details-content">
                         <h2><?= $model->title?> </h2>

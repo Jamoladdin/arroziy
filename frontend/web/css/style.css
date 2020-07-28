@@ -1953,7 +1953,6 @@ textarea {
     border-bottom: 1px solid #E1E1E1;
 }
 .blog-top p i{
-    font-size: 16px;
     color: #939393;
     margin-left: 5px;
 }
@@ -2696,6 +2695,7 @@ textarea {
 .pagination li:last-child{margin-right: 0px}
 .pagination li a, .pagination >li > span{
     font-size: 18px;
+    padding: 6px 0;
     /*font-weight: 600;*/
     font-family: 'Open Sans', sans-serif;
     color: #606060;
@@ -2714,11 +2714,14 @@ textarea {
 .pagination > .active > a,
 .pagination > .active > span,
 .pagination > li > a:hover,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
 .pagination > li > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
     color: #fff;
     background: #EC1C23;
+    border-color: #EC1C23;
 }
 .teacher-details-content{margin-top: 26px}
 .teacher-details-content h2 {
